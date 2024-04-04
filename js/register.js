@@ -18,6 +18,7 @@ function jfun1(){
 }
 
 function jfun2(){
+    
     var m = eval(form2.math.value);
     var e = eval(form2.eng.value);
     var s = eval(form2.sci.value);
